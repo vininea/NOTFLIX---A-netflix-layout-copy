@@ -1,16 +1,16 @@
-# Kenzieflix
+# Notflix
 
-Projeto desenvolvido na parte 2 da maratona de programação da Kenzie Academy Brasil.
+Projeto desenvolvido usando bastante o google e tutoriais de CSS.
 
 ## Ferramentas
 
-[Como utilizar o codepen e o VSCode](https://kenzie-academy-brasil.github.io/ferramentas/)
+
 
 ## O Projeto
 
 ### Estrutura de arquivos
 
-- kenzieflix
+- notflix
     - README.md
     - index.html
     - /assets
@@ -30,8 +30,7 @@ Projeto desenvolvido na parte 2 da maratona de programação da Kenzie Academy B
 - #6D6D6E
 - #B9090B
 - #808080
+- 
+Versão PC:![image](https://user-images.githubusercontent.com/75549321/129634368-0f6d11ff-870d-4232-85f2-f444ef069a8b.png)
+Versão Mobile: ![image](https://user-images.githubusercontent.com/75549321/129634388-01171901-8950-4b05-929a-12c0a3de92dd.png)
 
-## Layout
-
-- [Kenzieflix Desktop](./assets/img/desktop.png)
-- [Kenzieflix Mobile](./assets/img/mobile.png)
